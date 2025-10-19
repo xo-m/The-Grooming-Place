@@ -4,6 +4,8 @@ nav ul {display: flex; justify-content: center; list-style: none; padding: 0; ma
 
 nav a{text-decoration:none; }
 
+h1{color:black;}
+
 .table{margin:20px auto; border-collapse:collapse; border:4px solid #fae6ff;}
 
 .table td{color:black; border:4px solid #fae6ff;}
